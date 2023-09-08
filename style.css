@@ -1,0 +1,79 @@
+/*	* { border: 2px dashed red;
+	min-height: 10px;
+    padding: 1px;
+}*/
+body{
+    background-color: lightgray;
+    margin: 0;
+    height: 100%;
+}
+h1 {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+.postheader {
+    background-color: white;
+    padding: 5px;
+    padding-right: 10px;
+
+}
+h2 {
+    float: left;
+    border-color: black;
+}
+.date {
+    float: right;
+    color: gray;
+}
+.imgbox {
+    width: 400px;
+    border-color: black;
+}
+.allimages {
+    width: 400px;
+}
+.postfooter {
+    width: 400px;
+    color: black;
+    background-color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    display: inline-block;
+}
+.captions {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.firstpost {
+    height: fit-content;
+    background-color:white;
+    color: black;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+.secondpost {
+    height: 100%;
+    background-color:white;
+    color: black;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+.thirdpost {
+    height: 100%;
+    background-color:white;
+    color: black;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+.fourthpost {
+    height: 100%;
+    background-color:white;
+    color: black;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
